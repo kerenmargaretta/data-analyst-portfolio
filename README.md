@@ -1,4 +1,4 @@
-# Data Analyst Portfolio — Inafoods East Java (2024)
+# Data Analyst Portfolio — Inafoods Marketing Performance (2024)
 
 📘 **Commercial Performance Analysis — Inafoods East Java (2024)**  
 **Prepared for:** CEO, Vice Director of Commerce, GM of Marketing 
@@ -7,6 +7,8 @@
 ---
 
 ## Table of Contents
+- [Tools Used](#tools-used)
+- [Methodology](#methodology)
 - [Data Structure Overview](#data-structure-overview)
 - [Executive Summary](#executive-summary)
 - [Insight Deep Dive](#insight-deep-dive)
@@ -15,9 +17,27 @@
   - [C. Region Performance](#c-region-performance)
 - [Recommendations](#recommendations)
 - [Dashboard](#dashboard)
+- [Contact](#contact)
 
 ---
 
+## Tools Used
+
+- **Microsoft Excel** — data cleaning, transformation, manual product code creation
+- **Tableau** — for interactive dashboards and visual insights
+- **SQL** — for preprocessing data
+
+---
+
+## Methodology
+
+- Merging datasets with inconsistent structures
+- Manual product coding to unify formats
+- ROI calculation by product and region
+- Monthly performance trend analysis (YoY, MoM)
+- Marketing efficiency analysis based on AOV vs Cost
+
+---
 ## Data Structure Overview
 
 The data sets used for this analysis were sourced from various systems and departments within Inafoods. Specifically, sales data from distributors and end customers were pulled from different software platforms, while marketing-related data (such as incentives and program claims) was manually recorded using Excel. This discrepancy in data sources resulted in significant format variations.
@@ -118,6 +138,12 @@ Rather than distributing budgets evenly across all areas, focus on regions where
 ## Dashboard
 
 📊 **[See Full Dashboard Here](Commercial%20Performance%20Graphics.pdf)**
+
+---
+
+## Contact
+
+✉️ Feel free to [connect with me](mailto:kerenmargaretta16@gmail.com) to discuss more about this project or future collaborations.
 
 
 
